@@ -1,5 +1,5 @@
 # Password Randomizer
 
-Simple password generator, generate strong pseudo-random passwords.
+Generate strong pseudo-random password.
 
 - Password length : 20 (default)
